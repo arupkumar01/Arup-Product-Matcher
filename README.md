@@ -22,12 +22,3 @@ A web app that lets users upload or capture a product image and find visually si
 - Image matching: embeddings, image processing  
 - Deployment: Vercel  
 
----
-
-## Setup & Run
-
-```bash
-git clone https://github.com/yourusername/visual-product-matcher.git
-cd visual-product-matcher
-npm install
-npm run dev
